@@ -2,7 +2,7 @@
   "name": "FIRSTList — Türkiye FRC Takımları",
   "short_name": "FIRSTList",
   "description": "Türkiye'deki tüm FRC takımlarının listesi",
-  "start_url": "./firstlist.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0A0C10",
   "theme_color": "#E8001D",
